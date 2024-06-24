@@ -6,11 +6,11 @@
 
 ### 1. JBoss 애플리케이션 (sample-jboss-app.war)
 
-간단한 Hello World JBoss 애플리케이션을입니다. 소스코드는 `jboss-app/` 디렉토리에 위치합니다.
+간단한 Hello World JBoss 애플리케이션입니다. 소스코드는 `jboss-app/` 디렉토리에 위치합니다.
 
 ### 2. Tomcat 애플리케이션 (sample-tomcat-app.war)
 
-간단한 Hello World Tomcat 애플리케이션을입니다. 소스코드는 `tomcat-app/` 디렉토리에 위치합니다.
+간단한 Hello World Tomcat 애플리케이션입니다. 소스코드는 `tomcat-app/` 디렉토리에 위치합니다.
 
 ### 3. Dockerfile
 
