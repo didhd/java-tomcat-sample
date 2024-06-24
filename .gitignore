@@ -1,0 +1,56 @@
+# Java and Maven specific
+target/
+*.war
+*.ear
+*.jar
+*.class
+
+# Logs
+*.log
+
+# Directories
+.mvn/
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+
+# Eclipse
+*.swp
+*~
+.metadata
+.recommenders
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Maven
+log/
+!src/main/resources/log/
+!src/test/resources/log/
+!src/integration-test/resources/log/
+!src/main/webapp/log/
+
+# Others
+*.bak
+*.tmp
+*.old
+*.orig
